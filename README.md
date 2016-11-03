@@ -61,15 +61,18 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 ตอบ
 ยกตัวอย่างเช่น
+
 ![]
 (https://github.com/HoneyApinya/LAB-01/blob/master/imgs/2.png?raw=true)
+
 เกิดจาก
 ``` 
  	MessageBox(NULL, "Hello World! This is my first win32 program!",
 		"Lesson1", MB_ICONINFORMATION);
 ```
 ![]
-(https://github.com/HoneyApinya/LAB-01/blob/master/imgs/3.png?raw=true)
+(https://github.com/HoneyApinya/LAB-01/blob/master/imgs/3.png?raw=true
+
 เกิดจาก
 ```
 	MessageBox(NULL, "Hello World! This is my first win32 program!",
