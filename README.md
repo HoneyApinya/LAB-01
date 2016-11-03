@@ -49,6 +49,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ## บันทึกผลการทดลอง
 ![ผลการทำงานของโปรแกรม]
 (https://github.com/HoneyApinya/LAB-01/blob/master/imgs/1.png)
+
  สรุปผลการทดลองได้ว่า MessageBox คือการสร้าง MessageBox ขึ้นมาเพื่อเป็นการป้อนข้อความลงไปให้แสดงข้อความนั้นๆภายใน MessageBox
  โดยยจะแสดงข้อมูลดังรูป
  
@@ -71,7 +72,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 		"Lesson1", MB_ICONINFORMATION);
 ```
 ![]
-(https://github.com/HoneyApinya/LAB-01/blob/master/imgs/3.png?raw=true
+(https://github.com/HoneyApinya/LAB-01/blob/master/imgs/3.png?raw=true)
 
 เกิดจาก
 ```
