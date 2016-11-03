@@ -59,11 +59,23 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 2. ให้ทดลองแก้ไข <code> MessageBox(...) </code> โดยการเปลี่ยน <code> MB_OK </code> เป็นค่าอื่นๆ [ดูได้จากอ้างอิงตามลิงค์นี้](https://github.com/Desktop-Programming-Lab-2559/LAB-01/blob/master/message-box.md)
 
-ตอบ 
-
-```c 
- 	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
+ตอบ
+ยกตัวอย่างเช่น
+![]
+(https://github.com/HoneyApinya/LAB-01/blob/master/imgs/2.png?raw=true)
+เกิดจาก
+``` 
+ 	MessageBox(NULL, "Hello World! This is my first win32 program!",
+		"Lesson1", MB_ICONINFORMATION);
 ```
+![]
+(https://github.com/HoneyApinya/LAB-01/blob/master/imgs/3.png?raw=true)
+เกิดจาก
+```
+	MessageBox(NULL, "Hello World! This is my first win32 program!",
+		"Lesson1", MB_YESNO);
+```
+ ซึ่การเปลี่ยนค่า MB ในวรรคสุดท้ายนั้น คือการเลือกการแสดงผลของ messagebox
 				
 
 
